@@ -1,0 +1,23 @@
+body{
+    font-size: x-large;
+    font-weight: bold ;
+    background-color: rgba(67, 145, 62, 0.311);
+    box-sizing: border-box;
+    
+
+
+}
+h2{
+    font-size: 3rem;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration-color: gray;
+    text-decoration: underline;
+    background-color: aliceblue;
+
+}
+#me{
+    text-decoration: wavy;
+    text-decoration-color: darkgray;
+    text-transform: capitalize;
+}
